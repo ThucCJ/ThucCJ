@@ -14,6 +14,6 @@ You can click the Preview link to take a look at your changes.
 ### ✍️
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 ---
-![](https://komarev.com/ghpvc/?username=sangcamap&label=Visitors+Count&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=thuccj&label=Visitors+Count&color=brightgreen)
 
 ![My G𝚒𝚝𝚑𝚞𝚋 G𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=thuccj&theme=react-dark&hide_border=true&area=true_)
