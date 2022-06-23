@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ### ✍️
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&myquote=Hello name)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 ---
 ![](https://komarev.com/ghpvc/?username=thuccj&label=Visitors+Count&color=brightgreen)
 
