@@ -1,17 +1,4 @@
-<!-- - 👋 Hi, I’m @thuccj
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
- -->
-<!---
-thuccj/thuccj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&lines=Wellcome+to+My+Profile+;My+name+is+Thuc+%F0%9F%A4%93%F0%9F%98%8E%F0%9F%A6%88)](https://git.io/typing-svg)
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ### ✍️
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
