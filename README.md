@@ -10,6 +10,6 @@
 ![](https://komarev.com/ghpvc/?username=thuccj&label=Visitors+Count&color=brightgreen)
 
 <p align = "center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sangcamap&show_icons=true&locale=en" alt="sangcamap" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sangcamap&" alt="sangcamap" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thuccj&show_icons=true&locale=en" alt="thuccj" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thuccj&" alt="thuccj" />
 </p>
