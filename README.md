@@ -1,4 +1,6 @@
+<p align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&lines=Wellcome+to+My+Profile+;My+name+is+Thuc+%F0%9F%A4%93%F0%9F%98%8E%F0%9F%A6%88)](https://git.io/typing-svg)
+</p>
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/vo.dinh.thuc.05092001/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/v%C3%B5-%C4%91%C3%ACnh-th%E1%BB%A5c-0ab777214/) 
